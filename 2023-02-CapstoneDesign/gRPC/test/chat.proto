@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package grpc;
+
+message Empty {}
+
+message Note {
+    string name = 1;
+    bytes message = 2;
+}
+
+message ExitMessage {
+    string exit_reason = 1;
+}
+
+service ChatServer {
+    rpc ChatStream (Empty) returns (stream Note);
+    rpc SendNote (Note) returns (Empty);
+    rpc SendExitMessage(ExitMessage) returns (Empty);
+}
