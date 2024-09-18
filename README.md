@@ -56,9 +56,7 @@
 
 ### 7. Material
 
-- https://docs.google.com/presentation/d/16x8lrbJkRjA1yNrHj7mozVZD4qMdgBiD/edit?usp=sharing&ouid=117021856449870949642&rtpof=true&sd=true
-
-
+- https://docs.google.com/presentation/d/1vL15ZHuDqlVGx9lrajU57KPcfRs6cg48/edit?usp=sharing&ouid=116001109415801449045&rtpof=true&sd=true
 
 
 
