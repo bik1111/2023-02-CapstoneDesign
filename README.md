@@ -23,7 +23,7 @@
 
 ### 5-1. Transmission Speed Aspect
 
-<img width="840" alt="image" src="https://docs.google.com/presentation/d/1vL15ZHuDqlVGx9lrajU57KPcfRs6cg48/edit#slide=id.p1">
+<img width="840" alt="image" src="https://github.com/bik1111/2023-02-CapstoneDesign/assets/76617139/2d4e2dbe-8890-45ea-958e-1ca67a4627f5">
 
 ---
 ### 5-2. CPU Usage Aspect
