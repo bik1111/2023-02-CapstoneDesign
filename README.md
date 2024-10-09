@@ -1,11 +1,11 @@
 # 2023-02-CapstoneDesign
 
 ## 1. Research Title
-채팅 서비스 구현 시 효율적인 라이브러리 선택을 위한 gRPC 및 zeroMQ 성능 비교 및 분석 <br>
+Performance Comparison and Analysis of gRPC and ZeroMQ for Efficient framework Selection in Chat Service Implementation <br>
 
 ## 2. Research Object
 
-채팅 서비스를 도입하려는 기업 및 서비스에게 효율적인 라이브러리 선택을 위한 인사이트 제공 <br>
+To provide insights for companies and services looking to implement a chat service in selecting an efficient library <br>
 
 ## 3. Research Model
 
